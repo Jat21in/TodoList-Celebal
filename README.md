@@ -55,64 +55,6 @@ Space Todo reimagines task management by turning tasks into orbiting planets. Ea
 - **Statistics Dashboard** - Track your productivity metrics
 - **Categories & Tags** - Organize tasks your way
 
-## 🚀 Quick Start
-
-### Prerequisites
-
-```bash
-node >= 18.0.0
-npm >= 8.0.0
-```
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/space-todo.git
-
-# Navigate to project directory
-cd space-todo
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-### 🌐 **Access Your Space Station**
-
-Open https://todo-list-celebal-ten.vercel.app/ in your browser to launch your personal space todo station.
-
-## 🎮 Usage Guide
-
-### 🆕 **Creating Your First Mission**
-
-1. **Launch Mission Control** - Click the `+` button or press `Ctrl+N`
-2. **Define Your Mission** - Enter task name, due date, and priority
-3. **Set Orbital Parameters** - Choose category and add tags
-4. **Deploy to Orbit** - Watch your task join the orbital system
-
-### 🎯 **Managing Active Missions**
-
-| Action | Method | Shortcut |
-|--------|--------|----------|
-| **Add Task** | Click + button | `Ctrl+N` |
-| **Search Tasks** | Use search bar | `Ctrl+F` |
-| **Open Settings** | Click gear icon | `Ctrl+S` |
-| **Close Modals** | Click outside or X | `Esc` |
-
-### 📊 **Mission Control Dashboard**
-
-The left panel provides real-time statistics:
-
-- **Total Missions** - All tasks in your system
-- **Success Rate** - Completion percentage
-- **Active Missions** - Pending tasks
-- **Due Today** - Tasks requiring immediate attention
-- **High Priority** - Critical missions
-- **Overdue** - Tasks past their deadline
-
 ## 🏗️ Architecture
 
 ```mermaid
@@ -192,6 +134,64 @@ const orbitConfig = {
 | **Memory Usage** | < 50MB | 🟢 Efficient |
 
 </div>
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+```bash
+node >= 18.0.0
+npm >= 8.0.0
+```
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/space-todo.git
+
+# Navigate to project directory
+cd space-todo
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+### 🌐 **Access Your Space Station**
+
+Open https://todo-list-celebal-ten.vercel.app/ in your browser to launch your personal space todo station.
+
+## 🎮 Usage Guide
+
+### 🆕 **Creating Your First Mission**
+
+1. **Launch Mission Control** - Click the `+` button or press `Ctrl+N`
+2. **Define Your Mission** - Enter task name, due date, and priority
+3. **Set Orbital Parameters** - Choose category and add tags
+4. **Deploy to Orbit** - Watch your task join the orbital system
+
+### 🎯 **Managing Active Missions**
+
+| Action | Method | Shortcut |
+|--------|--------|----------|
+| **Add Task** | Click + button | `Ctrl+N` |
+| **Search Tasks** | Use search bar | `Ctrl+F` |
+| **Open Settings** | Click gear icon | `Ctrl+S` |
+| **Close Modals** | Click outside or X | `Esc` |
+
+### 📊 **Mission Control Dashboard**
+
+The left panel provides real-time statistics:
+
+- **Total Missions** - All tasks in your system
+- **Success Rate** - Completion percentage
+- **Active Missions** - Pending tasks
+- **Due Today** - Tasks requiring immediate attention
+- **High Priority** - Critical missions
+- **Overdue** - Tasks past their deadline
 
 ## 🤝 Contributing
 
