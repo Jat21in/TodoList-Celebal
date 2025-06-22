@@ -16,7 +16,7 @@
 </div>
 
 ---
-<img src="public/1.png" alt="Gamified Admin Arena Dashboard" width="700"/>
+<img src="public/1.jpg" alt="Gamified Admin Arena Dashboard" width="700"/>
 
 ## 🌟 Overview
 
